@@ -2,6 +2,12 @@
 
 This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-six.476/) from Sage on OpenBuilds. Some design changes were made based on access to tools. This design is based on using OpenBuilds 20x40mm V-Slot aluminum extrusions. This has the benefit of not needing to attach an external linear rail to standard 2020 extrusions.
 
+## Things to research
+
+- Traxxas ball joints
+- http://www.tridprinting.com/Mechanical-Parts/#3D-Printer-Rod-Kit
+- Carriage design
+
 ## BOM
 
 ### 3D Printed
@@ -13,12 +19,35 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 
 ### Frame
 
-| Qty | Price | Part Name | Link |
-|-----|-------|-----------|------|
-| 6x  | $7.15 | Black V-Slot 20x40 500mm              | [OpenBuilds](http://openbuildspartstore.com/black-v-slot-linear-rail/)
-| 3x  | $14.30| Black V-Slot 20x40 1000mm             | [OpenBuilds](http://openbuildspartstore.com/black-v-slot-linear-rail/)
-| 3x  | $4.50 | Low Profile Screws M5 10mm - 25 Pack  | [OpenBuilds](http://openbuildspartstore.com/low-profile-screws-m5/)
-| 3x  | $4.95 | Tee Nuts M5 - 25 Pack                 | [OpenBuilds](http://openbuildspartstore.com/tee-nuts-25-pack/)
-| 2x  | $2.75 | Low Profile Screws M5 40mm - 10 Pack  | [OpenBuilds](http://openbuildspartstore.com/low-profile-screws-m5/)
+| Qty | Price | Part Name | Link | Status  |
+|-----|-------|-----------|------|---------|
+| 6x  | $7.15 | Black V-Slot 20x40 500mm              | [OpenBuilds](http://openbuildspartstore.com/black-v-slot-linear-rail/) | Ordered
+| 3x  | $14.30| Black V-Slot 20x40 1000mm             | [OpenBuilds](http://openbuildspartstore.com/black-v-slot-linear-rail/) | Ordered
+| 3x  | $4.50 | Low Profile Screws M5 10mm - 25 Pack  | [OpenBuilds](http://openbuildspartstore.com/low-profile-screws-m5/) | Ordered
+| 3x  | $4.95 | Tee Nuts M5 - 25 Pack                 | [OpenBuilds](http://openbuildspartstore.com/tee-nuts-25-pack/) | Ordered
+| 2x  | $2.75 | Low Profile Screws M5 40mm - 10 Pack  | [OpenBuilds](http://openbuildspartstore.com/low-profile-screws-m5/) | Ordered
 
 #### Total: $119.65
+
+### Movement
+
+| Qty | Price | Part Name | Link |
+|-----|-------|-----------|------|
+| 4x  |       | NEMA 17 Stepper Motor
+| 3x  |       | GT2 20 Teeth Pulleys
+|     |       | GT2 2mm Timing Belt
+
+TBD
+
+### Electronics
+
+| Qty | Price | Part Name | Link |
+|-----|-------|-----------|------|
+| 1x  |       | Ardiuno Mega Clone
+| 1x  |       | RAMPS 1.4
+| 1x  |       | LCD Panel w/ SD Card
+
+
+### Printing
+
+TBD
