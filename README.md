@@ -23,7 +23,11 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 
 | Qty | Part Name | Links| Status |
 |-----|-----------|------|--------|
-| 6   |Vertex     | [STL](Resources/Delta-Six/vertex_20x40.stl) - [PNG](Resources/Delta-Six/vertex_20x40.png) | Printing |
+| 6x  | Vertex              | [STL](Resources/Delta-Six/vertex_20x40.stl) - [PNG](Resources/Delta-Six/vertex_20x40.png) | Printing
+| 3x  | Vertex Idler Cap    | [STL](Resources/Delta-Six/vertex_20x40_idler_cap.stl) - [PNG](Resources/Delta-Six/vertex_20x40_idler_cap.png) | Printing
+| 3x  | Carriage Backplate  | [STL](Resources/Delta-Six/carriage_20x40_backplate.stl) | Not Started
+| 3x  | Carriage            | [STL](Resources/Open-Builds/d6magcar.stl) | Not Started
+| 1x  | Effector            | [STL](Resources/kossel-plus-magnetic-effector/magneticEffector.stl) | Not Started
 
 
 ### Frame
@@ -39,35 +43,25 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 
 **Total: $179.65 + Shipping**
 
-### Carriages
-
-| Qty | Price | Part Name | Link | Status  |
-|-----|-------|-----------|------|---------|
-| 3x4 |       |
-
 ### Movement
 
 | Qty | Price | Part Name | Link | Status |
 |-----|-------|-----------|------|--------|
-| 4x  |       | NEMA 17 Stepper Motor
-| 3x  |       | GT2 20 Teeth Pulleys
-|     |       | GT2 2mm Timing Belt
+| 3x  | $17.50| NEMA 17 Stepper Motor | [OpenBuilds](http://openbuildspartstore.com/nema-17-stepper-motor/) | Ordered
+| 3x  | $6.95 | GT2 30 Teeth Pulleys | [OpenBuilds](http://openbuildspartstore.com/gt2-2mm-aluminum-timing-pulley-30-tooth/?page_context=category&faceted_search=0) | Had
+| 12x | $3.95 | Solid V Wheel Kit | [OpenBuilds](http://openbuildspartstore.com/solid-v-wheel-kit/?page_context=category&faceted_search=0) | Had
+| 3x  | $4.85 | Smooth Idler Pulley Wheel Kit | [OpenBuilds](http://openbuildspartstore.com/smooth-idler-pulley-wheel-kit/) | Ordered
+| 1x  | $18.99| GT2 Belt 5M | [Amazon](http://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_1?ie=UTF8&qid=1434351828&sr=8-1&keywords=gt2+belt&refinements=p_85%3A2470955011#customerReviews) | Ordered
 
-**Total: TBD**
+**Total: $154.29** | **New Parts: $86.04**
 
 ### Electronics
 
-| Qty | Price | Part Name | Link |
-|-----|-------|-----------|------|
-| 1x  |       | Ardiuno Mega Clone
-| 1x  |       | RAMPS 1.4
-| 1x  |       | LCD Panel w/ SD Card
+| Qty | Price | Part Name | Link | Status |
+|-----|-------|-----------|------|--------|
+| 1x  | $64.95| RAMPS 1.4 + Arduino Mega + 5x Stepper Motor Drivers (A4988) + LCD SD Card Reader | [Amazon](http://www.amazon.com/Sintron-Controller-Mega-2560-R3/dp/B00L9BX8AS/ref=cm_cr_pr_sims_t/180-4270232-2404508) | Ordered
 
-**Total: TBD**
-
-### Printing
-
-**Total: TBD**
+**Total: $64.95**
 
 ### Shipping
 
