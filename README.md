@@ -19,6 +19,13 @@ This 3D printer is based on the [design](http://www.openbuilds.com/builds/delta-
 
 ## BOM
 
+### To Find
+
+- Limit Switches
+- Heated bed
+- Power supply (ATX PC Supply?)
+- Extruder
+
 ### 3D Printed
 
 | Qty | Part Name | Links| Status |
